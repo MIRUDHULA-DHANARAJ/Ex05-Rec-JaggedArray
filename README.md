@@ -18,6 +18,7 @@ Accessing the elements.
 Finish the program and Run the prgram.
 
 ## Program:
+```
 using System;
 class CPUactivity
 {
@@ -47,7 +48,7 @@ class CPUactivity
         }
     }
 }
-
+```
 
 ## Output:
 
